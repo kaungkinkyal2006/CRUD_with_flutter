@@ -1,0 +1,10 @@
+C:/Users/HP/StudioProjects/crud_sqlite/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/HP/StudioProjects/crud_sqlite/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/HP/StudioProjects/crud_sqlite/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/HP/StudioProjects/crud_sqlite/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/HP/StudioProjects/crud_sqlite/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/HP/StudioProjects/crud_sqlite/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/HP/StudioProjects/crud_sqlite/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/HP/StudioProjects/crud_sqlite/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/HP/StudioProjects/crud_sqlite/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/HP/StudioProjects/crud_sqlite/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
